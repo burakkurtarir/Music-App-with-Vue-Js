@@ -27,5 +27,9 @@ Firebase(Storage, Auth)
 
 The first page is entry page that includes register and sign in modules.
 When you registered or signed in, you will be routed to playlists page.
+Playlists page includes create playlist, list all playlists,add new music to playlists and 
+get urls of muscis(listen musics) modules.
+
+
 
 
