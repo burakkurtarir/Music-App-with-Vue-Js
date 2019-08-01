@@ -1,29 +1,31 @@
 # music-app
 
+## Description
+
+You can create playlists, upload your musics as mp3 format and listen everytime you want.
+
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Usage
 
-### Run your tests
-```
-npm run test
-```
+First, you should register. 
+Then create playlist and add your musics to playlist.
+And finally enjoy listening :D
 
-### Lints and fixes files
-```
-npm run lint
-```
+If you don't have time for these steps, sign in with my test account.
+Email: burak.kurtarir35@hotmail.com
+Password: burak123
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies
+
+Vue Js
+Firebase(Storage, Auth)
+
+## Components
+
+The first page is entry page that includes register and sign in modules.
+When you registered or signed in, you will be routed to playlists page.
+
+
